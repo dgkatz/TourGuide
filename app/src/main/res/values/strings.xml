@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Boston Tour Guide</string>
+    <string name="state_name">Boston, MA</string>
+    <string name="hotels_restaurants">Hotels and Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="atm">Atm locations</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="metro_station">Metro Stations</string>
+    <string name="name_text">Nirman Vihar Metro Station</string>
+    <string name="location_text">Near Laxmi Nagar</string>
+
+    <string name="metro1">Fenway station</string>
+    <string name="metro1Loc">Near Fenway Park</string>
+
+    <string name="rest1">Regina Pizzaria</string>
+    <string name="rest1Loc">North End, Boston</string>
+    <string name="rest2">Duncan Donuts</string>
+    <string name="rest2Loc">Boston, MA</string>
+    <string name="rest3">China Pearl</string>
+    <string name="rest3Loc">China Town, Boston</string>
+    <string name="rest4">Bovas Bakery</string>
+    <string name="rest4Loc">North End, Boston</string>
+
+    <string name="hosp1">Beth Israel</string>
+    <string name="hosp1Loc">Boston</string>
+
+    <string name="atm1">Brookline Bank</string>
+    <string name="atm1Loc">1 Test Street, Boston</string>
+
+    <string name="hot1">Holiday Inn</string>
+    <string name="hol1Loc">Boston, MA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
